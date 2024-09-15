@@ -1,9 +1,42 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="Page-1" id="MhYlX54lci603i3YfhTt">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="1895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WBg6txaAX7VrlYbttuFp-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="200" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WBg6txaAX7VrlYbttuFp-2" value="BIG-IP Primary&lt;div&gt;Software&lt;/div&gt;&lt;div&gt;Modules&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WBg6txaAX7VrlYbttuFp-3" value="LTM" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WBg6txaAX7VrlYbttuFp-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WBg6txaAX7VrlYbttuFp-5" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="160" width="410" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="WBg6txaAX7VrlYbttuFp-7" value="&lt;b&gt;&lt;font color=&quot;#b5739d&quot; face=&quot;Verdana&quot; style=&quot;font-size: 20px;&quot;&gt;How Traffic Flows&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-520" width="410" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WBg6txaAX7VrlYbttuFp-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WBg6txaAX7VrlYbttuFp-8" target="WBg6txaAX7VrlYbttuFp-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WBg6txaAX7VrlYbttuFp-8" value="Client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d0cee2;strokeColor=#B5739D;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-380" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WBg6txaAX7VrlYbttuFp-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WBg6txaAX7VrlYbttuFp-10" target="WBg6txaAX7VrlYbttuFp-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WBg6txaAX7VrlYbttuFp-10" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;VIP&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;(Virtual IP)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#b1ddf0;strokeColor=none;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="335" y="-380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WBg6txaAX7VrlYbttuFp-12" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;BIG-IP&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Load Balancer&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#b0e3e6;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="535" y="-380" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
