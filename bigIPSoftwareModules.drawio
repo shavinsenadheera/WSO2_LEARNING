@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="Page-1" id="MhYlX54lci603i3YfhTt">
-    <mxGraphModel dx="1242" dy="1859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2092" dy="1859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WBg6txaAX7VrlYbttuFp-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="140" width="1440" height="940" as="geometry" />
+        </mxCell>
         <mxCell id="WBg6txaAX7VrlYbttuFp-7" value="&lt;b&gt;&lt;font color=&quot;#b5739d&quot; face=&quot;Verdana&quot; style=&quot;font-size: 20px;&quot;&gt;How Traffic Flows&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="-560" width="410" height="40" as="geometry" />
         </mxCell>
@@ -118,29 +121,47 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WBg6txaAX7VrlYbttuFp-45" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="120" y="140" width="960" height="800" as="geometry" />
-        </mxCell>
-        <mxCell id="WBg6txaAX7VrlYbttuFp-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WBg6txaAX7VrlYbttuFp-45">
-          <mxGeometry x="80" y="300" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="WBg6txaAX7VrlYbttuFp-2" value="BIG-IP Primary&lt;div&gt;Software&lt;/div&gt;&lt;div&gt;Modules&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WBg6txaAX7VrlYbttuFp-45">
-          <mxGeometry x="220" y="380" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WBg6txaAX7VrlYbttuFp-3" value="LTM" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WBg6txaAX7VrlYbttuFp-45">
-          <mxGeometry x="240" y="220" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="WBg6txaAX7VrlYbttuFp-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WBg6txaAX7VrlYbttuFp-45">
-          <mxGeometry x="400" y="300" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="WBg6txaAX7VrlYbttuFp-5" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;" vertex="1" parent="WBg6txaAX7VrlYbttuFp-45">
-          <mxGeometry x="260" y="10" width="410" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="WBg6txaAX7VrlYbttuFp-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;" vertex="1" parent="WBg6txaAX7VrlYbttuFp-45">
-          <mxGeometry width="960" height="800" as="geometry" />
-        </mxCell>
         <mxCell id="WBg6txaAX7VrlYbttuFp-47" value="" style="shape=stencil(fZbdcgIhDIWfZm8zQAg/17Z9j85U606tdqz9e/tmZ0c0uJ47xP0I5JwEBl59bp8/1kNwn6fj4W39M76ctgM/DCGM++36OJ50NPDjwKvN4bh+PR6+9i/z74/n6ctp9H74nlb4nbmSKZeJCu5vngmZ6jzzNAO7cX8FVKEsBuBKrgKg9oAE8gkCbLeUhEoEQKSUDZDLeWYRKIl8MEDRmHwfyBrBG6Amyu4+kDxxMoB3jhwgYu7TVAsVkFcWCs4CTBEoF4RctKeOxHIf8IXYpikHikAIf+MNUW94AGSSaoAoFIE3AlOyeWU+p2E5S9yfQZcQILVuQOwZdJNoS9Ls3wA5u2XZTIHECqeJ9kDpSaauRiNVcAY1QhdBzeLBli5WazpkSsBLV25uRaqWRyFawTQzRRIQYirJzq5atkBqLfouwqUxLBepthWb10vrWZY6UOAeyKCCtDV625mm9gmUC4Wc3VLJMMIE1BsA2FW9JraVlQB7n3c9oMKhCLEvIM1zBPZ25/umNQ1tVEC2G+fFCC8g398O2hNQuQlVu752DBfA+q0ptnqO5JFmeuIuo9DY7KjY71UxdJV4EntifPWorW++R/dC4t7V3DlIB5cHx2bc7eb3yvX//QNFp+bHDT/+Aw==);lineShape=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="121.8679608424759" y="-198.12468754148063" width="4.672539772115215" height="4.665236216357243" as="geometry" />
+        </mxCell>
+        <mxCell id="WBg6txaAX7VrlYbttuFp-1" value="APM" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="570" y="800" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WBg6txaAX7VrlYbttuFp-2" value="BIG-IP Primary&lt;div&gt;Software&lt;/div&gt;&lt;div&gt;Modules&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WBg6txaAX7VrlYbttuFp-3" value="LTM" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WBg6txaAX7VrlYbttuFp-4" value="DNS" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="600" y="540" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WBg6txaAX7VrlYbttuFp-5" value="&lt;span style=&quot;color: rgb(34, 34, 34); font-family: &amp;quot;Atkinson Hyperlegible&amp;quot;, system-ui; font-size: 15px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Central to F5&#39;s full traffic proxy functionality, LTM provides the platform for creating virtual servers, performance, service, protocol, authentication, and security profiles to define and shape your application traffic.&amp;nbsp; Most other modules in the BIG-IP family use&amp;nbsp; LTM as a foundation for enhanced services.&lt;/span&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="150" width="410" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="WBg6txaAX7VrlYbttuFp-49" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;&lt;font face=&quot;Atkinson Hyperlegible, system-ui&quot; color=&quot;#222222&quot;&gt;Formerly Global Traffic Manager, BIG-IP DNS provides similar security and load balancing features that LTM offers but at a global/multi-site scale.&amp;nbsp; BIG-IP DNS offers services to distribute and secure DNS traffic advertising your application namespaces.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;perimeterSpacing=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="650" y="360" width="410" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="WBg6txaAX7VrlYbttuFp-50" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(34, 34, 34); font-family: &amp;quot;Atkinson Hyperlegible&amp;quot;, system-ui; font-size: 15px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Provides federation, SSO, application access policies, and secure web tunneling.&amp;nbsp; Allow granular access to your various applications, virtualized desktop environments, or just go full VPN tunnel&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=28.2;dy=47;size=5;boundedLbl=1;perimeterSpacing=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="660" y="650" width="410" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="WBg6txaAX7VrlYbttuFp-53" value="SWG" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="10" y="880" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WBg6txaAX7VrlYbttuFp-54" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(34, 34, 34); font-family: &amp;quot;Atkinson Hyperlegible&amp;quot;, system-ui; font-size: 15px; text-align: left;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(34, 34, 34); font-family: &amp;quot;Atkinson Hyperlegible&amp;quot;, system-ui; font-size: 15px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Paired with APM, SWG enables access policy control for internet usage.&amp;nbsp; You can allow, block, verify and log traffic with APM&#39;s access policies allowing flexibility around your acceptable internet and public web application use.&amp;nbsp; You know.... contractors and interns shouldn&#39;t use Facebook but you&#39;re not going to be responsible why the CFO can&#39;t access their cat pics.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=28.2;dy=47;size=5;boundedLbl=1;perimeterSpacing=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="690" width="410" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="WBg6txaAX7VrlYbttuFp-55" value="&lt;span style=&quot;color: rgb(34, 34, 34); font-family: &amp;quot;Atkinson Hyperlegible&amp;quot;, system-ui; font-size: 15px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;ASM&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WBg6txaAX7VrlYbttuFp-56" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Atkinson Hyperlegible, system-ui&quot; color=&quot;#222222&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;This is F5&#39;s web application firewall (WAF) solution.&amp;nbsp; Traditional firewalls and layer 3 protection don&#39;t understand the complexities of many web applications.&amp;nbsp; ASM allows you to tailor acceptable and expected application behavior on a per application basis .&amp;nbsp; Zero day, DoS, and click fraud all rely on traditional security device&#39;s inability to protect unique application needs; ASM fills the gap between traditional firewall and tailored granular application protection.&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=37;size=5;boundedLbl=1;perimeterSpacing=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="160" width="410" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="WBg6txaAX7VrlYbttuFp-57" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;&lt;font face=&quot;Atkinson Hyperlegible, system-ui&quot; color=&quot;#222222&quot;&gt;AFM&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="670" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WBg6txaAX7VrlYbttuFp-58" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Atkinson Hyperlegible, system-ui&quot; color=&quot;#222222&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;AFM is designed to reduce the hardware and extra hops required when ADC&#39;s are paired with traditional firewalls.&amp;nbsp; Operating at L3/L4, AFM helps protect traffic destined for your data center.&amp;nbsp; Paired with ASM, you can implement protection services at L3 - L7 for a full ADC and Security solution in one box or virtual environment.&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=37;size=5;boundedLbl=1;perimeterSpacing=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="450" width="410" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
